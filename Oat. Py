@@ -39,8 +39,7 @@ print "Kr-Login Success\n\n=====[Sukses All Login]====="
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""
-========[Cat_Bot]========
+[ oat  -  เด็ก]
 
 [Command In Group]
 ►Creator
